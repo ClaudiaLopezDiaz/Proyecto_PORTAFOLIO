@@ -119,13 +119,13 @@
                             <!-- Name input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                                <label for="name">Correo electronico (CherrySpring2022@gmail.com)</label>
+                                <label for="name">Correo electronico (CherrySpring@gmail.com)</label>
                                 
                             </div>
 
                             <!-- Phone number input-->
                             <div class="form-floating mb-3">
-                                <label for="phone">Número de telefono (Tel. 932 133 45 80)</label>
+                                <label for="phone">Número de telefono (Tel. 932 120 88 77)</label>
                                
                             </div>                           
                         </form>
@@ -149,9 +149,9 @@
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">ALREDEDOR DE LA RED</h4>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/Cherry-Spring-101563889245328/?__cft__[0]=AZWkzRJ1Hzdi3WldjM6StktXMxtH-sZRcohAAgpaikh6PThGgpJLjlJWONnLHZuDApveZk9pQHX717wJlRkXTpluoPZw0hdbQslXHx6wGPOGYmIaN2EKzU_E_PdjRYlEubhLYn3qib5a_d363ysMp_vx&__tn__=H-R"><i class="fab fa-fw fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-whatsapp"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://web.whatsapp.com/"><i class="fab fa-fw fa-whatsapp"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
                     </div>
                     <!-- Footer About Text-->
@@ -159,7 +159,7 @@
                         <h4 class="text-uppercase mb-4">ACERCA DE NOSOTROS</h4>
                         <p class="lead mb-0">
                             Creadores y desarrolladores de diseños para cualquier area. visitanos en:
-                            <a href="">Canva</a>
+                            <a href="https://www.canva.com/brand/join?token=fqaCXqCv2ywMNJi0OTwl8Q&referrer=team-invite">Canva</a>
                             .
                         </p>
                     </div>
